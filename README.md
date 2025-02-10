@@ -1,9 +1,10 @@
 
 # Hi, I'm Keith 👋
 
-I'm a passionate mobile app developer with over ten years of professional experience, dedicated to creating innovative and secure digital solutions. I have had the privilege of working with leading companies across finance, retail, and digital creative sectors.
-[![GitHub Streak](https://streak-stats.demolab.com?user=KeithGapusan&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+- I'm a passionate mobile app developer with over ten years of professional experience, dedicated to creating innovative and secure digital solutions. I have had the privilege of working with leading companies across finance, retail, and digital creative sectors.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=KeithGapusan&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+-
 ## Career Highlights
 
 - **Zip Financial Technologies Inc. (Technical Lead) – January 2023 to Present**
